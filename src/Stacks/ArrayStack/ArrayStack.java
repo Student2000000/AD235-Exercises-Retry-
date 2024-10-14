@@ -189,7 +189,7 @@ StackInterface<String> myStack = new ArrayStack<>();
         return isSorted;
     }
 // praying this one is actually O(n) becuase
-//that was a requirement of the submission on CSBS.
+//that was a requirement of the submission on CSBS
 
 } // end ArrayStack
 
