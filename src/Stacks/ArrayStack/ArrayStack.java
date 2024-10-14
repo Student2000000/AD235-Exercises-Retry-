@@ -146,6 +146,7 @@ StackInterface<String> myStack = new ArrayStack<>();
         }
         return min_val;
     }
+    //O(n)
 /*
 All Changes 10/13 start here
 StackInterface<String> myStack = new ArrayStack<>();
@@ -187,8 +188,8 @@ StackInterface<String> myStack = new ArrayStack<>();
 
         return isSorted;
     }
-
-
+// praying this one is actually O(n) becuase
+//that was a requirement of the submission on CSBS.
 
 } // end ArrayStack
 
